@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/trarut-git/static/css/main.a2c86985.chunk.css",
+    "main.js": "/trarut-git/static/js/main.cdde59f4.chunk.js",
+    "main.js.map": "/trarut-git/static/js/main.cdde59f4.chunk.js.map",
+    "runtime-main.js": "/trarut-git/static/js/runtime-main.6dd42b7d.js",
+    "runtime-main.js.map": "/trarut-git/static/js/runtime-main.6dd42b7d.js.map",
+    "static/css/2.6bc7e310.chunk.css": "/trarut-git/static/css/2.6bc7e310.chunk.css",
+    "static/js/2.7632f3ac.chunk.js": "/trarut-git/static/js/2.7632f3ac.chunk.js",
+    "static/js/2.7632f3ac.chunk.js.map": "/trarut-git/static/js/2.7632f3ac.chunk.js.map",
+    "index.html": "/trarut-git/index.html",
+    "precache-manifest.ec1008f86678e88c5ef784e05dbccb1e.js": "/trarut-git/precache-manifest.ec1008f86678e88c5ef784e05dbccb1e.js",
+    "service-worker.js": "/trarut-git/service-worker.js",
+    "static/css/2.6bc7e310.chunk.css.map": "/trarut-git/static/css/2.6bc7e310.chunk.css.map",
+    "static/css/main.a2c86985.chunk.css.map": "/trarut-git/static/css/main.a2c86985.chunk.css.map",
+    "static/js/2.7632f3ac.chunk.js.LICENSE": "/trarut-git/static/js/2.7632f3ac.chunk.js.LICENSE",
+    "static/media/mdb.css": "/trarut-git/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/app-store-badge.svg": "/trarut-git/static/media/app-store-badge.d0558d91.svg",
+    "static/media/style.css": "/trarut-git/static/media/bg-cta.36ddbb2d.jpg",
+    "static/media/demo-screen-1.jpg": "/trarut-git/static/media/demo-screen-1.82bcf3c8.jpg",
+    "static/media/all.min.css": "/trarut-git/static/media/fa-solid-900.f6121be5.woff2",
+    "static/media/device-mockups.css": "/trarut-git/static/media/silver.845604f7.png",
+    "static/media/google-play-badge.svg": "/trarut-git/static/media/google-play-badge.cfea2442.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dd42b7d.js",
+    "static/css/2.6bc7e310.chunk.css",
+    "static/js/2.7632f3ac.chunk.js",
+    "static/css/main.a2c86985.chunk.css",
+    "static/js/main.cdde59f4.chunk.js"
+  ]
+}
