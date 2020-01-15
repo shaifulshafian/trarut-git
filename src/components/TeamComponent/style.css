@@ -1,0 +1,20 @@
+a.twitter {
+  color: #1fa8df;
+}
+
+a.facebook {
+  color: #1f4cdf;
+}
+
+a.youtube {
+  color: #df1f1f;
+}
+
+a.social {
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform: translateY(-5px);
+}
