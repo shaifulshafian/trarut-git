@@ -52,7 +52,7 @@ export const ContactUsComponent = props => {
             </MDBRow>
           </form>
           <div className="text-center text-md-left">
-            <MDBBtn color="primary" size="md">
+            <MDBBtn href="mailto:ahmad.anwar.ibrahim@gmail.com" color="primary" size="md">
               Send
             </MDBBtn>
           </div>
@@ -65,11 +65,7 @@ export const ContactUsComponent = props => {
             </li>
             <li>
               <MDBIcon icon="phone" size="2x" className="blue-text mt-4" />
-              <p>+ 01 234 567 89</p>
-            </li>
-            <li>
-              <MDBIcon icon="envelope" size="2x" className="blue-text mt-4" />
-              <p>Kenari@support.com</p>
+              <p>+601 3210047</p>
             </li>
           </ul>
         </MDBCol>

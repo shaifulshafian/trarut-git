@@ -5,20 +5,19 @@ import demoScreen1 from "../../../src/img/demo-screen-1.jpg";
 
 export const HeroComponent = props => {
   return (
-    <header className="masthead">
+    <header id="home" className="masthead">
       <div className="container h-100">
         <div className="row h-100">
           <div className="col-lg-7 my-auto">
             <div className="header-content mx-auto">
               <h1 className="mb-5">
-                Why pay thousands of dollars when the best is free? Over 12,500
-                active accounts!!!
+                Introducing QR Code Asset Tagging
               </h1>
               <a
-                href="#download"
+                href="https://app.trarut.com"
                 className="btn btn-dark btn-xl js-scroll-trigger"
               >
-                Click Now for Freelah!!!
+                Click Now for free demo
               </a>
             </div>
           </div>

@@ -80,7 +80,7 @@ class NavBarComponent extends Component {
                 <Link
                   activeClass="active"
                   className="nav-link js-scroll-trigger"
-                  to="download"
+                  to="home"
                   spy={true}
                   smooth="easeInOutQuart"
                   duration={1000}
@@ -97,58 +97,10 @@ class NavBarComponent extends Component {
                   smooth="easeInOutQuart"
                   duration={1000}
                 >
-                  Review
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  activeClass="active"
-                  className="nav-link js-scroll-trigger"
-                  to="contact"
-                  spy={true}
-                  smooth="easeInOutQuart"
-                  duration={1000}
-                >
                   Features
                 </Link>
               </li>
-              <li className="nav-item">
-                <Link
-                  activeClass="active"
-                  className="nav-link js-scroll-trigger"
-                  to=""
-                  spy={true}
-                  smooth="easeInOutQuart"
-                  duration={1000}
-                >
-                  Apps
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  activeClass="active"
-                  className="nav-link js-scroll-trigger"
-                  to=""
-                  spy={true}
-                  smooth="easeInOutQuart"
-                  duration={1000}
-                >
-                  Benefits
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  activeClass="active"
-                  className="nav-link js-scroll-trigger"
-                  to=""
-                  spy={true}
-                  smooth="easeInOutQuart"
-                  duration={1000}
-                >
-                  Pricing
-                </Link>
-              </li>
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <Link
                   activeClass="active"
                   className="nav-link js-scroll-trigger"
@@ -159,7 +111,7 @@ class NavBarComponent extends Component {
                 >
                   Teams
                 </Link>
-              </li>
+              </li> */} 
               <li className="nav-item">
                 <Link
                   activeClass="active"
@@ -170,18 +122,6 @@ class NavBarComponent extends Component {
                   duration={1000}
                 >
                   Contact Us
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  activeClass="active"
-                  className="nav-link js-scroll-trigger"
-                  to="download"
-                  spy={true}
-                  smooth="easeInOutQuart"
-                  duration={1000}
-                >
-                  Register
                 </Link>
               </li>
             </ul>

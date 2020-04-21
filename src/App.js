@@ -44,13 +44,12 @@ class App extends Component {
       <div>
         <NavBarComponent navBarShrink={nbs} />
         <HeroComponent />
-
-        <AppDownloadComponent />
-        <ReviewComponent />
+        {/* <AppDownloadComponent />
+        <ReviewComponent /> */}
         <FeaturesComponent />
         {/* <CallToActionComponent /> */}
 
-        <TeamComponent />
+     {/*    <TeamComponent /> */}
         <ContactUsComponent />
         <FooterComponent />
         {/* <SocialComponent /> */}

@@ -33,20 +33,18 @@ export const FeaturesComponent = props => {
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-screen-smartphone text-primary" />
-                    <h3>Device Mockups</h3>
+                    <h3>No Hidden Costs</h3>
                     <p className="text-muted">
-                      Ready to use HTML/CSS device mockups, no Photoshop
-                      required!
+                      Our Solution is built on Open Source Technology
                     </p>
                   </div>
                 </div>
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-camera text-primary" />
-                    <h3>Flexible Use</h3>
+                    <h3>Cloud Implementation</h3>
                     <p className="text-muted">
-                      Put an image, video, animation, or anything else in the
-                      screen!
+                      Access from everywhere around the world 24/7
                     </p>
                   </div>
                 </div>
@@ -55,20 +53,9 @@ export const FeaturesComponent = props => {
                 <div className="col-lg-6">
                   <div className="feature-item">
                     <i className="icon-present text-primary" />
-                    <h3>Free to Use</h3>
+                    <h3>Migration by Excel file</h3>
                     <p className="text-muted">
-                      As always, this theme is free to download and use for any
-                      purpose!
-                    </p>
-                  </div>
-                </div>
-                <div className="col-lg-6">
-                  <div className="feature-item">
-                    <i className="icon-lock-open text-primary" />
-                    <h3>Open Source</h3>
-                    <p className="text-muted">
-                      Since this theme is MIT licensed, you can use it
-                      commercially!
+                      Just only filled up our provided Excel file, then our solution will insert it into database.
                     </p>
                   </div>
                 </div>
